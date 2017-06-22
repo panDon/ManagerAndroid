@@ -1,2 +1,1 @@
-# ManagerAndroid
-安卓资源集锦
+http://gank.io 干货集中营
